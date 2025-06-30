@@ -129,6 +129,10 @@
 ### 🔹 16. Yoshga bog‘liq chegirma
 
 **🧮 Vazifa:** Chipta narxi 100 000 so‘m. Yoshga qarab chegirma qo‘llang. Yosh kiritilganda aynan shu yoshdagi insonlar uchun chipta narxi qancha bo'lishi va qancha chegirma berilishini aniqlovchi dastur yarating.\
+- 7 yoshgacha (0-6): 50% chegirma
+- 7-17 yosh: 20% chegirma
+- 60 yoshdan katta: 30% chegirma
+
 **📥 Kirish:** `5`\
 **📤 Chiqish:** `Yakuniy narx: 50 so'm (50% chegirma qo'llanildi)`
 
