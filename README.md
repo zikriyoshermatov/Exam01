@@ -19,8 +19,8 @@
 ### 🔹 3. Uchta sonning o‘rtachasini topish
 
 **🧮 Vazifa:** Uchta sonning o'rtacha qiymatini hisoblang.\
-**📥 Kirish:** `a = 4`, `b = 6`, `c = 8`\
-**📤 Chiqish:** `6.0`
+**📥 Kirish:** `a = 4`, `b = 9`, `c = 8`\
+**📤 Chiqish:** `7.0`
 
 ---
 
