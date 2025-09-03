@@ -155,23 +155,32 @@
 
 ---
 
-### 🔹 18. Listdan eng katta va eng kichik elementni topish
+### 🔹 18. 1 dan N gacha bo‘lgan sonlar yig‘indisi
 
-🧮 Vazifa: Foydalanuvchidan 6 ta sonlardan iborat list oling. Shu ro‘yxatdagi eng katta sonni aniqlang.\
-📥 Kirish: `sonlar = [45, 12, 78, 34, 89, 23]`\
-📤 Chiqish: `Eng katta son: 89, Eng kichik son: 12`
-
----
-
-### 🔹 19. Listdagi unli harflarni sanang
-
-**🧮 Vazifa:** Harflardan iborat list berilgan. Listdagi `a, e, i, o, u` unli harflar sonini hisoblang.
-**📥 Kirish:** `letters = ["h", "e", "l", "l", "o", "w", "O", "r", "l", "d"]`\
-**📤 Chiqish:** `3`
+**🧮 Vazifa:** Foydalanuvchi kiritgan `N` sonigacha bo‘lgan barcha sonlarning yig‘indisini for loop yordamida hisoblang.
+**📥 Kirish:** `N = 5`
+**📤 Chiqish:** `15`  (1+2+3+4+5)
 
 ---
 
-### 🔹 20. To‘g‘ri javob kiritilmaguncha davom et
+### 🔹 19. Matndagi unli harflarni sanash (`for` bilan)
 
-**🧮 Vazifa:** "O‘zbekiston poytaxti nima?" degan savolga "Toshkent" deb to‘g‘ri javob berilmaguncha so‘rashni davom ettiring. Javobdagi belgilar case-sensitive bo'lmasin ya'ni katta har bilan kichik harf bir xil qaralsin `"a"` = `"A"`.\
-**📤 Chiqish:** `"To‘g‘ri!"` (to‘g‘ri javob berilganda)
+**🧮 Vazifa:** Kiritilgan matn ichida `a, e, i, o, u` unlilar sonini for loop orqali sanang.
+**📥 Kirish:** `"Salom Dunyo"`
+**📤 Chiqish:** `4`
+
+---
+
+### 🔹 20. 1 dan 10 gacha bo‘lgan sonlarning kvadratlarini chiqarish
+
+**🧮 Vazifa:** For loop yordamida 1 dan 10 gacha bo‘lgan sonlarning kvadratini ekranga chiqaring.
+**📤 Chiqish:**
+
+```
+1 ning kvadrati: 1
+2 ning kvadrati: 4
+3 ning kvadrati: 9
+...
+10 ning kvadrati: 100
+```
+
